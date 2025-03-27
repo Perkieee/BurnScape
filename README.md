@@ -1,6 +1,6 @@
 # ML4Earth Submission
 
-This repository contains the notebook **ML4Earth Submission** which focuses on [brief project overview]. The notebook applies machine learning techniques for [describe project goal, e.g., analyzing satellite imagery to predict forest burn areas].
+This repository contains the notebook **ML4Earth Submission** which focuses on a geospatial data analysis project. The notebook applies machine learning techniques for analyzing satellite imagery to predict forest burn areas, helping to identify burned and unburned surfaces efficiently and accurately.
 
 ## Contents
 
